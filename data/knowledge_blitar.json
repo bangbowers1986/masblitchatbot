@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sejarah-bungkarno",
+    "kategori": "sejarah",
+    "judul": "Makam Bung Karno",
+    "konten": "Makam Bung Karno berada di Kelurahan Bendogerit, Kota Blitar. Dipilih oleh Bung Karno sendiri sebagai tempat peristirahatan terakhir karena Blitar adalah kota kelahiran ibundanya, Ida Ayu Oetari. Lokasinya di lereng Gunung Kelud, sejuk dan sakral. Setiap 21 Juni (hari lahir Bung Karno), ribuan warga datang dalam acara 'Kembang Setaman'.",
+    "tag": ["tokoh", "ziarah", "nasional"]
+  },
+  {
+    "id": "kuliner-pecel-blitar",
+    "kategori": "kuliner",
+    "judul": "Pecel Blitar",
+    "konten": "Pecel Blitar punya ciri khas: bumbu kacang lebih kental dan sedikit manis, daunnya dominan kenikir dan bayam (bukan kangkung), dan disajikan dengan lontong kecil berbentuk silinder. Beda sama pecel Madiun yang lebih encer dan pedas. Biasa dimakan pagi-pagi biar awet kenyang sampe siang!",
+    "tag": ["makanan", "pedas", "tradisional"]
+  },
+  {
+    "id": "festival-grebeg-suro",
+    "kategori": "festival",
+    "judul": "Grebeg Suro Blitar",
+    "konten": "Grebeg Suro di Blitar digelar tiap 1 Suro (kalender Jawa), biasanya di Alun-Alun Kota Blitar. Ada kirab budaya, tumpeng raksasa, wayang kulit semalam suntuk, dan ritual 'Mandi Safar' di pantai Tambakrejo. Tujuannya: tolak bala & syukuran atas rezeki tahun lalu. Katanya, kalau ikut kirab, rejeki setahun lancar — wis ta? Coba ae!",
+    "tag": ["ritual", "keramaian", "agama"]
+  },
+  {
+    "id": "candi-penataran",
+    "kategori": "wisata",
+    "judul": "Candi Penataran",
+    "konten": "Candi Penataran adalah candi Hindu terbesar di Jawa Timur, dibangun abad ke-12 oleh Raja Srengga dari Kerajaan Kediri. Lokasinya di Desa Penataran, Kec. Nglegok, Kab. Blitar. Arsitekturnya unik: relief Ramayana, ada candi Naga, dan 'Candi Brawijaya' yang diyakini tempat meditasi raja-raja Majapahit. Cocok buat foto-foto aesthetic sambil belajar sejarah!",
+    "tag": ["candi", "hindu", "sejarah"]
+  },
+  {
+    "id": "kuliner-sambal-tumpang",
+    "kategori": "kuliner",
+    "judul": "Sambal Tumpang",
+    "konten": "Sambal Tumpang adalah sambal khas Blitar dari tempe 'busuk' (fermentasi lanjut, bukan kedaluwarsa!). Dikukus dengan bumbu kencur, bawang, cabe, dan santan. Rasanya gurih-asam-pedas — nendang tapi bikin kangen! Biasa disantap dengan nasi jagung & ayam kampung. Katanya, kalau belum cobain Sambal Tumpang, belum sah jadi wong Blitar.",
+    "tag": ["sambal", "tempe", "pedas"]
+  },
+  {
+    "id": "tari-gandrung-blitar",
+    "kategori": "kesenian",
+    "judul": "Tari Gandrung Blitar",
+    "konten": "Tari Gandrung di Blitar berbeda dengan Banyuwangi. Di sini, penarinya laki-laki & perempuan berpasangan, pakai baju hitam-putih, gerakannya dinamis dengan iringan gamelan & kendang. Awalnya ritual kesuburan, kini jadi hiburan rakyat di acara hajatan atau festival. Kalau lihat, pasti ikut goyang — ra iso nurut badan!",
+    "tag": ["tari", "musik", "ritual"]
+  },
+  {
+    "id": "wisata-tambakrejo",
+    "kategori": "wisata",
+    "judul": "Pantai Tambakrejo",
+    "konten": "Pantai Tambakrejo di Kec. Wonotirto adalah pantai andalan Blitar. Pasir hitamnya lembut, ombaknya pas buat surfing pemula, dan sunset-nya aduhai! Ada tradisi 'Sedekah Laut' tiap bulan Suro: nelayan lepas sesaji ke laut biar hasil tangkapan lancar. Kalau ke sini, jangan lupa beli ikan bakar + sambal terasi — enak euy!",
+    "tag": ["pantai", "nelayan", "alam"]
+  },
+  {
+    "id": "kuliner-jenang-blitar",
+    "kategori": "kuliner",
+    "judul": "Jenang Blitar",
+    "konten": "Jenang (dodol) Blitar biasa disebut 'Jenang Sekul'. Terbuat dari ketan hitam, gula jawa, santan, dan daun pandan. Teksturnya kenyal & legit, warnanya hitam pekat. Dulu cuma untuk sesaji, kini jadi oleh-oleh wajib. Ada yang bilang: kalau makan Jenang Sekul sambil lihat Gunung Kelud, doa cepet dikabul — percaya ae, gak rugi!",
+    "tag": ["kue", "manis", "oleh-oleh"]
+  },
+  {
+    "id": "ritual-ngejung",
+    "kategori": "ritual",
+    "judul": "Upacara Ngejung",
+    "konten": "Ngejung adalah tradisi ziarah ke makam Bung Karno oleh keluarga & masyarakat tiap tanggal 21 Juni. Prosesinya khidmat: doa bersama, tabur bunga, lalu makan tumpeng bersama. Banyak yang percaya: kalau ngejung dengan niat tulus, hajat bisa terkabul. Tapi jangan lupa, parkir motor di situ mahal—bawa uang receh secukupnya ya! 😅",
+    "tag": ["ziarah", "keluarga", "tokoh"]
+  },
+  {
+    "id": "kuliner-lontong-balap-blitar",
+    "kategori": "kuliner",
+    "judul": "Lontong Balap Blitar",
+    "konten": "Lontong Balap Blitar beda sama Surabaya: kuahnya lebih bening, pakai tauge segar & lentho (perkedel singkong), plus sambal kacang kental. Rahasianya: bawang goreng kriuk & kecap manis khas Blitar. Enak dimakan pas hujan sambil denger lagu Didi Kempot — *ndelokmu koyo crito londo*!",
+    "tag": ["sarapan", "pedas", "jajanan"]
+  }
+]
